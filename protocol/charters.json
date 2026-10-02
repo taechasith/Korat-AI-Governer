@@ -1,0 +1,14 @@
+{
+  "B": {
+    "name": "Balanced Public Value",
+    "instruction": "Balance risk reduction, continuity, resilience, inclusion, opportunity, and feasibility."
+  },
+  "E": {
+    "name": "Equity / Need-First",
+    "instruction": "Prioritize evidenced vulnerability, basic services, unequal exposure, accessibility, and inclusion; do not invent vulnerable groups."
+  },
+  "R": {
+    "name": "Risk-Reduction / Resilience",
+    "instruction": "Prioritize preventable harm, disaster exposure, safety, continuity, and recurring risks."
+  }
+}

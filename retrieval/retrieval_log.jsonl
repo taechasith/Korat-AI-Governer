@@ -1,0 +1,64 @@
+{"scenario_id": "S1", "query": "Korat municipal annual allocation across all domains", "rank": 1, "score": 0.12110316187733072, "evidence_id": "E-003", "source_id": "SRC-FLOOD"}
+{"scenario_id": "S1", "query": "Korat municipal annual allocation across all domains", "rank": 2, "score": 0.06319397577437388, "evidence_id": "E-008", "source_id": "SRC-MUN-OPS-ADD2"}
+{"scenario_id": "S1", "query": "Korat municipal annual allocation across all domains", "rank": 3, "score": 0.03891128877023634, "evidence_id": "E-009", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S1", "query": "Korat municipal annual allocation across all domains", "rank": 4, "score": 0.03699951453011222, "evidence_id": "E-007", "source_id": "SRC-MUN-PLAN"}
+{"scenario_id": "S1", "query": "Korat municipal annual allocation across all domains", "rank": 5, "score": 0.035816190460143234, "evidence_id": "E-002", "source_id": "SRC-ACCIDENT"}
+{"scenario_id": "S1", "query": "Korat municipal annual allocation across all domains", "rank": 6, "score": 0.03427789867093927, "evidence_id": "E-004", "source_id": "SRC-ENV"}
+{"scenario_id": "S1", "query": "Korat municipal annual allocation across all domains", "rank": 7, "score": 0.033674300160349085, "evidence_id": "E-010", "source_id": "SRC-MUN-OPS-ADD2"}
+{"scenario_id": "S1", "query": "Korat municipal annual allocation across all domains", "rank": 8, "score": 0.033054982211846114, "evidence_id": "E-006", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S2", "query": "Korat evidence availability across policy domains; identify unknowns", "rank": 1, "score": 0.127438667519525, "evidence_id": "E-003", "source_id": "SRC-FLOOD"}
+{"scenario_id": "S2", "query": "Korat evidence availability across policy domains; identify unknowns", "rank": 2, "score": 0.05992817894431608, "evidence_id": "E-009", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S2", "query": "Korat evidence availability across policy domains; identify unknowns", "rank": 3, "score": 0.056983811065888804, "evidence_id": "E-007", "source_id": "SRC-MUN-PLAN"}
+{"scenario_id": "S2", "query": "Korat evidence availability across policy domains; identify unknowns", "rank": 4, "score": 0.056224244627073136, "evidence_id": "E-011", "source_id": "SRC-PROV-PLAN"}
+{"scenario_id": "S2", "query": "Korat evidence availability across policy domains; identify unknowns", "rank": 5, "score": 0.05186257123864866, "evidence_id": "E-010", "source_id": "SRC-MUN-OPS-ADD2"}
+{"scenario_id": "S2", "query": "Korat evidence availability across policy domains; identify unknowns", "rank": 6, "score": 0.050908745292135606, "evidence_id": "E-006", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S2", "query": "Korat evidence availability across policy domains; identify unknowns", "rank": 7, "score": 0.04866325439349423, "evidence_id": "E-008", "source_id": "SRC-MUN-OPS-ADD2"}
+{"scenario_id": "S2", "query": "Korat evidence availability across policy domains; identify unknowns", "rank": 8, "score": 0.015318952915104232, "evidence_id": "E-001", "source_id": "SRC-ROAD-DEATH"}
+{"scenario_id": "S3", "query": "Korat road safety flood resilience environment health administrative capacity", "rank": 1, "score": 0.14987589100486773, "evidence_id": "E-001", "source_id": "SRC-ROAD-DEATH"}
+{"scenario_id": "S3", "query": "Korat road safety flood resilience environment health administrative capacity", "rank": 2, "score": 0.14903027150549436, "evidence_id": "E-002", "source_id": "SRC-ACCIDENT"}
+{"scenario_id": "S3", "query": "Korat road safety flood resilience environment health administrative capacity", "rank": 3, "score": 0.14682568182161815, "evidence_id": "E-003", "source_id": "SRC-FLOOD"}
+{"scenario_id": "S3", "query": "Korat road safety flood resilience environment health administrative capacity", "rank": 4, "score": 0.12143167354391407, "evidence_id": "E-009", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S3", "query": "Korat road safety flood resilience environment health administrative capacity", "rank": 5, "score": 0.1070263704202348, "evidence_id": "E-012", "source_id": "SRC-PAO-BUDGET"}
+{"scenario_id": "S3", "query": "Korat road safety flood resilience environment health administrative capacity", "rank": 6, "score": 0.0700589598053286, "evidence_id": "E-010", "source_id": "SRC-MUN-OPS-ADD2"}
+{"scenario_id": "S3", "query": "Korat road safety flood resilience environment health administrative capacity", "rank": 7, "score": 0.04834521334831273, "evidence_id": "E-004", "source_id": "SRC-ENV"}
+{"scenario_id": "S3", "query": "Korat road safety flood resilience environment health administrative capacity", "rank": 8, "score": 0.04579981759368348, "evidence_id": "E-005", "source_id": "SRC-ELDER"}
+{"scenario_id": "S4", "query": "Korat health ageing education youth public space economy digital administration", "rank": 1, "score": 0.2060126849645987, "evidence_id": "E-008", "source_id": "SRC-MUN-OPS-ADD2"}
+{"scenario_id": "S4", "query": "Korat health ageing education youth public space economy digital administration", "rank": 2, "score": 0.1673588209392338, "evidence_id": "E-006", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S4", "query": "Korat health ageing education youth public space economy digital administration", "rank": 3, "score": 0.14696589348365655, "evidence_id": "E-005", "source_id": "SRC-ELDER"}
+{"scenario_id": "S4", "query": "Korat health ageing education youth public space economy digital administration", "rank": 4, "score": 0.05700063789869911, "evidence_id": "E-012", "source_id": "SRC-PAO-BUDGET"}
+{"scenario_id": "S4", "query": "Korat health ageing education youth public space economy digital administration", "rank": 5, "score": 0.0410155001890324, "evidence_id": "E-003", "source_id": "SRC-FLOOD"}
+{"scenario_id": "S4", "query": "Korat health ageing education youth public space economy digital administration", "rank": 6, "score": 0.03632646380872797, "evidence_id": "E-009", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S4", "query": "Korat health ageing education youth public space economy digital administration", "rank": 7, "score": 0.03454168617891456, "evidence_id": "E-007", "source_id": "SRC-MUN-PLAN"}
+{"scenario_id": "S4", "query": "Korat health ageing education youth public space economy digital administration", "rank": 8, "score": 0.03408126233096818, "evidence_id": "E-011", "source_id": "SRC-PROV-PLAN"}
+{"scenario_id": "S5", "query": "Korat annual allocation excluding road safety evidence", "rank": 1, "score": 0.07256431359177302, "evidence_id": "E-003", "source_id": "SRC-FLOOD"}
+{"scenario_id": "S5", "query": "Korat annual allocation excluding road safety evidence", "rank": 2, "score": 0.02769542759074029, "evidence_id": "E-009", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S5", "query": "Korat annual allocation excluding road safety evidence", "rank": 3, "score": 0.026334706660887667, "evidence_id": "E-007", "source_id": "SRC-MUN-PLAN"}
+{"scenario_id": "S5", "query": "Korat annual allocation excluding road safety evidence", "rank": 4, "score": 0.025983677851450254, "evidence_id": "E-011", "source_id": "SRC-PROV-PLAN"}
+{"scenario_id": "S5", "query": "Korat annual allocation excluding road safety evidence", "rank": 5, "score": 0.02396795817447138, "evidence_id": "E-010", "source_id": "SRC-MUN-OPS-ADD2"}
+{"scenario_id": "S5", "query": "Korat annual allocation excluding road safety evidence", "rank": 6, "score": 0.023527153566335904, "evidence_id": "E-006", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S5", "query": "Korat annual allocation excluding road safety evidence", "rank": 7, "score": 0.022489414197569606, "evidence_id": "E-008", "source_id": "SRC-MUN-OPS-ADD2"}
+{"scenario_id": "S5", "query": "Korat annual allocation excluding road safety evidence", "rank": 8, "score": 0.0, "evidence_id": "E-004", "source_id": "SRC-ENV"}
+{"scenario_id": "S6", "query": "Korat annual allocation excluding flood evidence", "rank": 1, "score": 0.03629770136985414, "evidence_id": "E-009", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S6", "query": "Korat annual allocation excluding flood evidence", "rank": 2, "score": 0.03451433688495216, "evidence_id": "E-007", "source_id": "SRC-MUN-PLAN"}
+{"scenario_id": "S6", "query": "Korat annual allocation excluding flood evidence", "rank": 3, "score": 0.03405427758976963, "evidence_id": "E-011", "source_id": "SRC-PROV-PLAN"}
+{"scenario_id": "S6", "query": "Korat annual allocation excluding flood evidence", "rank": 4, "score": 0.030834750300770958, "evidence_id": "E-006", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S6", "query": "Korat annual allocation excluding flood evidence", "rank": 5, "score": 0.029474686312453483, "evidence_id": "E-008", "source_id": "SRC-MUN-OPS-ADD2"}
+{"scenario_id": "S6", "query": "Korat annual allocation excluding flood evidence", "rank": 6, "score": 0.0, "evidence_id": "E-001", "source_id": "SRC-ROAD-DEATH"}
+{"scenario_id": "S6", "query": "Korat annual allocation excluding flood evidence", "rank": 7, "score": 0.0, "evidence_id": "E-002", "source_id": "SRC-ACCIDENT"}
+{"scenario_id": "S6", "query": "Korat annual allocation excluding flood evidence", "rank": 8, "score": 0.0, "evidence_id": "E-004", "source_id": "SRC-ENV"}
+{"scenario_id": "S7", "query": "Korat municipal and provincial evidence administrative-level distinction", "rank": 1, "score": 0.14456848057879115, "evidence_id": "E-009", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S7", "query": "Korat municipal and provincial evidence administrative-level distinction", "rank": 2, "score": 0.10911702807833679, "evidence_id": "E-011", "source_id": "SRC-PROV-PLAN"}
+{"scenario_id": "S7", "query": "Korat municipal and provincial evidence administrative-level distinction", "rank": 3, "score": 0.09786427562417178, "evidence_id": "E-002", "source_id": "SRC-ACCIDENT"}
+{"scenario_id": "S7", "query": "Korat municipal and provincial evidence administrative-level distinction", "rank": 4, "score": 0.09577088257102978, "evidence_id": "E-012", "source_id": "SRC-PAO-BUDGET"}
+{"scenario_id": "S7", "query": "Korat municipal and provincial evidence administrative-level distinction", "rank": 5, "score": 0.0899623397552145, "evidence_id": "E-007", "source_id": "SRC-MUN-PLAN"}
+{"scenario_id": "S7", "query": "Korat municipal and provincial evidence administrative-level distinction", "rank": 6, "score": 0.08850295927412537, "evidence_id": "E-004", "source_id": "SRC-ENV"}
+{"scenario_id": "S7", "query": "Korat municipal and provincial evidence administrative-level distinction", "rank": 7, "score": 0.08622879561224835, "evidence_id": "E-003", "source_id": "SRC-FLOOD"}
+{"scenario_id": "S7", "query": "Korat municipal and provincial evidence administrative-level distinction", "rank": 8, "score": 0.0803714204932205, "evidence_id": "E-006", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S8", "query": "Korat missing municipal evidence and uncertainty", "rank": 1, "score": 0.1170230566387145, "evidence_id": "E-003", "source_id": "SRC-FLOOD"}
+{"scenario_id": "S8", "query": "Korat missing municipal evidence and uncertainty", "rank": 2, "score": 0.10376075222905533, "evidence_id": "E-009", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S8", "query": "Korat missing municipal evidence and uncertainty", "rank": 3, "score": 0.09914731047235947, "evidence_id": "E-008", "source_id": "SRC-MUN-OPS-ADD2"}
+{"scenario_id": "S8", "query": "Korat missing municipal evidence and uncertainty", "rank": 4, "score": 0.08421312559838615, "evidence_id": "E-007", "source_id": "SRC-MUN-PLAN"}
+{"scenario_id": "S8", "query": "Korat missing municipal evidence and uncertainty", "rank": 5, "score": 0.07664473723116796, "evidence_id": "E-010", "source_id": "SRC-MUN-OPS-ADD2"}
+{"scenario_id": "S8", "query": "Korat missing municipal evidence and uncertainty", "rank": 6, "score": 0.07523513224458983, "evidence_id": "E-006", "source_id": "SRC-MUN-OPS-2026"}
+{"scenario_id": "S8", "query": "Korat missing municipal evidence and uncertainty", "rank": 7, "score": 0.06588610218309, "evidence_id": "E-011", "source_id": "SRC-PROV-PLAN"}
+{"scenario_id": "S8", "query": "Korat missing municipal evidence and uncertainty", "rank": 8, "score": 0.04485438191964233, "evidence_id": "E-002", "source_id": "SRC-ACCIDENT"}

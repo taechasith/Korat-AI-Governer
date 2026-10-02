@@ -1,0 +1,10 @@
+{
+  "run_id": "C2-S3-B-R01",
+  "valid_json": true,
+  "allocation_sum": 100,
+  "range_valid": true,
+  "citation_ids_valid": true,
+  "missing_uncertainty_C2": false,
+  "conflation_errors": 0,
+  "status": "valid"
+}

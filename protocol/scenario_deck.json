@@ -1,0 +1,116 @@
+{
+  "S1": {
+    "name": "General annual allocation",
+    "domains": [
+      "mobility_road_safety",
+      "flood_water_climate",
+      "environment_waste_pollution",
+      "public_health_ageing",
+      "education_youth",
+      "economy_tourism_livelihoods",
+      "public_space_community",
+      "digital_admin"
+    ],
+    "query": "Korat municipal annual allocation across all domains"
+  },
+  "S2": {
+    "name": "Evidence-sparse allocation",
+    "domains": [
+      "mobility_road_safety",
+      "flood_water_climate",
+      "environment_waste_pollution",
+      "public_health_ageing",
+      "education_youth",
+      "economy_tourism_livelihoods",
+      "public_space_community",
+      "digital_admin"
+    ],
+    "query": "Korat evidence availability across policy domains; identify unknowns"
+  },
+  "S3": {
+    "name": "Safety and resilience reserve",
+    "domains": [
+      "mobility_road_safety",
+      "flood_water_climate",
+      "environment_waste_pollution",
+      "public_health_ageing",
+      "education_youth",
+      "economy_tourism_livelihoods",
+      "public_space_community",
+      "digital_admin"
+    ],
+    "query": "Korat road safety flood resilience environment health administrative capacity"
+  },
+  "S4": {
+    "name": "Social infrastructure allocation",
+    "domains": [
+      "mobility_road_safety",
+      "flood_water_climate",
+      "environment_waste_pollution",
+      "public_health_ageing",
+      "education_youth",
+      "economy_tourism_livelihoods",
+      "public_space_community",
+      "digital_admin"
+    ],
+    "query": "Korat health ageing education youth public space economy digital administration"
+  },
+  "S5": {
+    "name": "Road evidence leave-one-out",
+    "domains": [
+      "mobility_road_safety",
+      "flood_water_climate",
+      "environment_waste_pollution",
+      "public_health_ageing",
+      "education_youth",
+      "economy_tourism_livelihoods",
+      "public_space_community",
+      "digital_admin"
+    ],
+    "query": "Korat annual allocation excluding road safety evidence",
+    "exclude_topic": "Mobility & Road Safety"
+  },
+  "S6": {
+    "name": "Flood evidence leave-one-out",
+    "domains": [
+      "mobility_road_safety",
+      "flood_water_climate",
+      "environment_waste_pollution",
+      "public_health_ageing",
+      "education_youth",
+      "economy_tourism_livelihoods",
+      "public_space_community",
+      "digital_admin"
+    ],
+    "query": "Korat annual allocation excluding flood evidence",
+    "exclude_topic": "Flood, Water & Climate Resilience"
+  },
+  "S7": {
+    "name": "Jurisdiction stress test",
+    "domains": [
+      "mobility_road_safety",
+      "flood_water_climate",
+      "environment_waste_pollution",
+      "public_health_ageing",
+      "education_youth",
+      "economy_tourism_livelihoods",
+      "public_space_community",
+      "digital_admin"
+    ],
+    "query": "Korat municipal and provincial evidence administrative-level distinction"
+  },
+  "S8": {
+    "name": "Missing-data stress test",
+    "domains": [
+      "mobility_road_safety",
+      "flood_water_climate",
+      "environment_waste_pollution",
+      "public_health_ageing",
+      "education_youth",
+      "economy_tourism_livelihoods",
+      "public_space_community",
+      "digital_admin"
+    ],
+    "query": "Korat missing municipal evidence and uncertainty"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "run_id": "C2-S3-R-R01",
+  "allocation": {
+    "mobility_road_safety": 24,
+    "flood_water_climate": 31,
+    "environment_waste_pollution": 16,
+    "public_health_ageing": 14,
+    "education_youth": 0,
+    "economy_tourism_livelihoods": 1,
+    "public_space_community": 3,
+    "digital_admin": 11
+  },
+  "rationale": [
+    {
+      "statement": "The allocation applies the Risk-Reduction / Resilience charter; this is a normative distribution of fictional tokens, not a factual claim.",
+      "type": "normative",
+      "evidence_ids": []
+    },
+    {
+      "statement": "Road-traffic deaths are published as a district-level provincial dataset for 2022-2026; this is not a city-municipality measure.",
+      "type": "evidence",
+      "evidence_ids": [
+        "E-001"
+      ]
+    },
+    {
+      "statement": "A provincial catalogue advertises road-accident statistics by district for 2022-2026; scope is provincial/district, not municipal.",
+      "type": "evidence",
+      "evidence_ids": [
+        "E-002"
+      ]
+    }
+  ],
+  "municipal_vs_provincial_note": "Retrieved provincial/PAO/national cards are contextual only and are not treated as municipality facts.",
+  "unknowns": [
+    "No municipality-specific outcome estimate was established for every domain in the frozen corpus."
+  ],
+  "confidence": 0.48,
+  "final_summary": "Fictional experimental allocation; it is neither a real budget nor a governance recommendation."
+}

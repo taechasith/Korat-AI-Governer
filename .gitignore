@@ -1,0 +1,27 @@
+# Local/private source snapshots. Recreate with scripts/pipeline.py.
+data/raw/
+
+# LaTeX and PDF build intermediates (paper_review.pdf is the reviewed artifact).
+paper/main.aux
+paper/main.bbl
+paper/main.blg
+paper/main.log
+paper/main.out
+paper/main.pdf
+paper/paper_render/
+
+# Local tools, caches, and QA scratch space.
+tools/
+tmp/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Rendered QA previews; source figures and the final paper PDF are tracked.
+analysis/figures/acm*.png
+analysis/figures/pdf_page_*.png
+analysis/figures/four_page_check.png
+analysis/figures/lead_figure_page.png
+
+# User-supplied source copy; the publication copy is paper/figures/framework.png.
+/framework.png

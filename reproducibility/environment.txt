@@ -1,0 +1,8 @@
+Execution date: 2026-10-02
+Platform: Windows / PowerShell
+Python: 3.10
+Core packages: requests, pandas, numpy, scikit-learn, scipy, matplotlib, seaborn, reportlab, pypdf, PyMuPDF
+TeX engine: Tectonic 0.17.0
+ACM class: acmart 2022/02/19 v1.83
+Model label exposed by session: Codex GPT-5
+Fresh isolated inference endpoint: unavailable

@@ -1,0 +1,38 @@
+{
+  "run_id": "C1-S8-E-R01",
+  "allocation": {
+    "mobility_road_safety": 11,
+    "flood_water_climate": 13,
+    "environment_waste_pollution": 10,
+    "public_health_ageing": 20,
+    "education_youth": 14,
+    "economy_tourism_livelihoods": 8,
+    "public_space_community": 15,
+    "digital_admin": 9
+  },
+  "rationale": [
+    {
+      "statement": "The allocation applies the Equity / Need-First charter; this is a normative distribution of fictional tokens, not a factual claim.",
+      "type": "normative",
+      "evidence_ids": []
+    },
+    {
+      "statement": "The national open-data catalogue includes a flood-prone-area dataset. This frozen snapshot does not establish a municipality-specific Korat estimate.",
+      "type": "evidence",
+      "evidence_ids": [
+        "E-003"
+      ]
+    },
+    {
+      "statement": "The municipal website lists an information-and-communication-technology master plan for 2023-2027.",
+      "type": "evidence",
+      "evidence_ids": [
+        "E-009"
+      ]
+    }
+  ],
+  "municipal_vs_provincial_note": "Retrieved provincial/PAO/national cards are contextual only and are not treated as municipality facts.",
+  "unknowns": [],
+  "confidence": 0.55,
+  "final_summary": "Fictional experimental allocation; it is neither a real budget nor a governance recommendation."
+}

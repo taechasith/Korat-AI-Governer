@@ -1,0 +1,38 @@
+{
+  "run_id": "C1-S6-B-R01",
+  "allocation": {
+    "mobility_road_safety": 16,
+    "flood_water_climate": 10,
+    "environment_waste_pollution": 12,
+    "public_health_ageing": 13,
+    "education_youth": 11,
+    "economy_tourism_livelihoods": 12,
+    "public_space_community": 12,
+    "digital_admin": 14
+  },
+  "rationale": [
+    {
+      "statement": "The allocation applies the Balanced Public Value charter; this is a normative distribution of fictional tokens, not a factual claim.",
+      "type": "normative",
+      "evidence_ids": []
+    },
+    {
+      "statement": "The municipal website lists an information-and-communication-technology master plan for 2023-2027.",
+      "type": "evidence",
+      "evidence_ids": [
+        "E-009"
+      ]
+    },
+    {
+      "statement": "The municipal 2023-2027 development-plan page is a municipality-level planning source with current 2026 amendment listings.",
+      "type": "evidence",
+      "evidence_ids": [
+        "E-007"
+      ]
+    }
+  ],
+  "municipal_vs_provincial_note": "Retrieved provincial/PAO/national cards are contextual only and are not treated as municipality facts.",
+  "unknowns": [],
+  "confidence": 0.55,
+  "final_summary": "Fictional experimental allocation; it is neither a real budget nor a governance recommendation."
+}
